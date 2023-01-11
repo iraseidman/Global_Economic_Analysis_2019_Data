@@ -9,7 +9,7 @@ This analysis was inspired by a six month trip I am finished at the beginning of
 
 ## Analysis
 
-This analysis showed impressive results from a number of countries including: excellent work force participation from Luxembourg and Singapore, high human capital indices from Singapore, Israel, and Slovakia, extended time-off (Germany, Holland, and Iceland leading the way) and strong GDP per capita (Ireland and Luxembourg, both also very small countries and Ireland might be benefitting from being an international tax haven rather than having quite so strong of an economy). Luxembourg, Ireland, and Norway also rank the top three for strongest GDP per hour worked which is very impressive and might be an indicator for which models to look further into. For graphical representations of the highlights from this dataset, check out my Tableau portfolio [here] (https://public.tableau.com/app/profile/ira.seidman).
+This analysis showed impressive results from a number of countries including: excellent work force participation from Luxembourg and Singapore, high human capital indices from Singapore, Israel, and Slovakia, extended time-off (Germany, Holland, and Iceland leading the way) and strong GDP per capita (Ireland and Luxembourg, both also very small countries and Ireland might be benefitting from being an international tax haven rather than having quite so strong of an economy). Luxembourg, Ireland, and Norway also rank the top three for strongest GDP per hour worked which is very impressive and might be an indicator for which models to look further into. For graphical representations of the highlights from this dataset, check out my Tableau portfolio [here](https://public.tableau.com/app/profile/ira.seidman).
 
 ---
 ### Data Description
